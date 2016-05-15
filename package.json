@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/celsomiranda/hexo-beautify",
   "dependencies": {
-    "js-beautify": "^1.5.5",
-    "minimatch": "^2.0.4"
+    "js-beautify": "^1.6.2",
+    "minimatch": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^2.3.0",
